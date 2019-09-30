@@ -6,8 +6,9 @@ AC-BT = Azurcord Bot
 AC-AG = Azurcord All Games  
   
 ## Short term goals
-- [ ] (AC-CG) Switch to use primary bank module (IN PROGRESS CURRENTLY)
-- [ ] (AC-CG) Fix and fully implement card packs (IN PROGRESS CURRENTLY)
+- [ ] (AC-CG) Fix all existing grammatical issues and clean up code as this is an inherited project (IN PROGRESS CURRENTLY)
+- [ ] (AC-CG) Switch to use primary bank module
+- [ ] (AC-CG) Fix and fully implement card packs
 ## Mid term goals
 - [ ] (AC-AG) Enable player statistics and a profile card for it
 - [ ] (AC-BT) Switch config to use database instead of files
